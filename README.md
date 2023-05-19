@@ -1,4 +1,4 @@
-# 40
+# 40 SQL Qury Questions for the database 'dvdrental'
 
 ## Beginner Level:
 
