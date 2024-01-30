@@ -2,6 +2,8 @@
 
 ## Beginner Level:
 
+Refer Beginner Queries for FIRST 10 questions.
+
 1. Retrieve all records from the "customers" table.
 2. Retrieve the names of all distinct cities from the "customers" table.
 3. Retrieve the customer ID, first name, and last name of customers whose last name is "Smith."
