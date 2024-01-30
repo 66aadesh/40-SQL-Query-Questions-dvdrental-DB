@@ -1,9 +1,40 @@
 # 40 SQL Query Questions for the database 'dvdrental'
 
+# Project Overview:
+Title: 40 SQL Query Questions for the database 'dvdrental'
+
+Purpose: The project aims to provide SQL learners with a series of progressively challenging SQL queries to practice and enhance their skills.
+
+Database: The queries are meant to be executed on the 'dvdrental' database, presumably a sample database commonly used for teaching and learning SQL, containing tables related to a DVD rental store.
+
+Levels of Difficulty:
+
+Beginner Level: Basic SQL queries focusing on simple SELECT statements, filtering, and basic aggregations.
+
+Intermediate Level: Queries requiring more complex JOINs, subqueries, and additional filtering conditions.
+
+Advanced Level: Advanced queries involving multiple JOINs, subqueries, aggregations, and complex conditions.
+
+Expert Level: Expert-level queries challenging users to apply advanced SQL concepts such as window functions, advanced aggregations, and intricate filtering conditions.
+
+Query Structure:
+Each level contains a set of SQL queries targeting different aspects of data retrieval and manipulation.
+Queries are numbered from 1 to 40, providing a structured progression of difficulty.
+Each query is accompanied by a description outlining the expected output or condition to be met.
+
+Learning Approach:
+Users can approach the queries sequentially, starting from the beginner level and gradually advancing to higher difficulty levels.
+Each query serves as a learning opportunity, helping users understand various SQL concepts and best practices.
+
+Benefits:
+Offers a structured learning path for SQL beginners.
+Provides hands-on practice with real-world SQL scenarios.
+Helps reinforce SQL skills through practical application.
+
+In summary, the project serves as a valuable resource for SQL learners seeking structured practice exercises to enhance their SQL proficiency. By engaging with the provided queries, users can gain practical experience and improve their SQL querying skills progressively.
+
 ## Beginner Level:
-
 Refer Beginner Queries for FIRST 10 questions.
-
 1. Retrieve all records from the "customers" table.
 2. Retrieve the names of all distinct cities from the "customers" table.
 3. Retrieve the customer ID, first name, and last name of customers whose last name is "Smith."
@@ -16,7 +47,6 @@ Refer Beginner Queries for FIRST 10 questions.
 10 Retrieve the rental ID, film ID, and rental duration of rentals with a duration of more than 5 days.
 
 ## Intermediate Level:
-
 11. Retrieve the film ID, title, and rating of all films in the "Documentary" category.
 12. Retrieve the customer ID, first name, and last name of customers who have rented the film with the title "Fight Club."
 13. Retrieve the rental ID, customer ID, and staff ID of rentals where the customer and staff have the same first name.
@@ -29,7 +59,6 @@ Refer Beginner Queries for FIRST 10 questions.
 20. Retrieve the customer ID, first name, and last name of customers who have not rented any films.
 
 ## Advanced Level:
-
 21. Retrieve the customer ID, first name, and last name of customers who have rented the most films.
 22. Retrieve the film ID, title, and average rating of films with a rating higher than the average rating of all films.
 23. Retrieve the customer ID, first name, and last name of customers who have rented the same film more than once.
@@ -42,7 +71,6 @@ Refer Beginner Queries for FIRST 10 questions.
 30. Retrieve the customer ID, first name, and last name of customers who have rented all films in a specific category.
 
 ## Expert Level:
-
 31. Retrieve the customer ID, first name, and last name of customers who have rented films from at least two different stores.
 32. Retrieve the film ID, title, and average rental rate of films that have been rented more than 100 times.
 33. Retrieve the customer ID, first name, and last name of customers who have rented films with a total rental duration of more than 30 days.
@@ -54,4 +82,3 @@ Refer Beginner Queries for FIRST 10 questions.
 39. Retrieve the rental ID, customer ID, and staff ID of rentals that have the same rental date and return date.
 40. Retrieve the customer ID, first name, and last name of customers who have rented all films from a specific category.
 
-These practice questions cover a wide range of SQL concepts and will help you gain proficiency in working with the DVD rental database.
