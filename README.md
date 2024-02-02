@@ -47,6 +47,7 @@ Refer Beginner Queries for FIRST 10 questions.
 10 Retrieve the rental ID, film ID, and rental duration of rentals with a duration of more than 5 days.
 
 ## Intermediate Level:
+Refer Intermediate Queries for SECOND 10 questions.
 11. Retrieve the film ID, title, and rating of all films in the "Documentary" category.
 12. Retrieve the customer ID, first name, and last name of customers who have rented the film with the title "Fight Club."
 13. Retrieve the rental ID, customer ID, and staff ID of rentals where the customer and staff have the same first name.
