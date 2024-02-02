@@ -35,6 +35,7 @@ In summary, the project serves as a valuable resource for SQL learners seeking s
 
 ## Beginner Level:
 Refer Beginner Queries for FIRST 10 questions.
+
 1. Retrieve all records from the "customers" table.
 2. Retrieve the names of all distinct cities from the "customers" table.
 3. Retrieve the customer ID, first name, and last name of customers whose last name is "Smith."
@@ -48,6 +49,7 @@ Refer Beginner Queries for FIRST 10 questions.
 
 ## Intermediate Level:
 Refer Intermediate Queries for SECOND 10 questions.
+
 11. Retrieve the film ID, title, and rating of all films in the "Documentary" category.
 12. Retrieve the customer ID, first name, and last name of customers who have rented the film with the title "Fight Club."
 13. Retrieve the rental ID, customer ID, and staff ID of rentals where the customer and staff have the same first name.
